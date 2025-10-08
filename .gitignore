@@ -1,0 +1,4 @@
+*.DS_STORE
+*.db
+app/data/images/ignored
+app/data/images/xignored
